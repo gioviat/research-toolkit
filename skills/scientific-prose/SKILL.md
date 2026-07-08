@@ -13,6 +13,7 @@ description: Use whenever drafting or editing prose for a paper, report, README,
 - Manufactured rule-of-three lists and uniform sentence length — vary structure the way a written derivation or argument naturally does
 - Hedge words used to avoid a claim rather than to state genuine uncertainty: "may", "could potentially", "generally speaking" — either state the result or state precisely what is uncertain and why
 - Generic conclusions: "This shows the importance of X" — end on the specific finding, not a platitude
+- Unnecessary comparisons: "We do X rather than Y", "It is X, not Y", "What it does, what it does not". If there is no need for a direct comparison, avoid it: just state plainly the central idea. 
 
 ## Positive requirements
 - One claim per sentence where possible; short sentences for results, longer sentences only where the logical structure requires subordination
