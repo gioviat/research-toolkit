@@ -1,6 +1,6 @@
 ---
 name: math-verification
-description: Use whenever asked to check, verify, derive, or re-derive a mathematical claim, proof, bound, or formula — including checking someone else's derivation, checking a step in a paper draft, or verifying that code implements a formula correctly. Trigger on words like "verify", "check the proof", "derive", "is this bound correct", "does this match the formula".
+description: Use whenever asked to check, verify, derive, or re-derive a mathematical claim, proof, bound, or formula, including checking someone else's derivation, checking a step in a paper draft, or verifying that code implements a formula correctly. Trigger on words like "verify", "check the proof", "derive", "is this bound correct", "does this match the formula".
 ---
 
 # Math verification
