@@ -3,13 +3,13 @@
   "owner": {
     "name": "gioviat"
   },
-  "version": "0.2.0",
+  "version": "0.2.2",
   "description": "Marketplace for the research-toolkit plugin: ML research skills and agents.",
   "plugins": [
     {
       "name": "research-toolkit",
       "source": ".",
-      "version": "0.2.0",
+      "version": "0.2.2",
       "description": "Skills and agents for the ML research pipeline: literature review, research ideation, math verification, experiment design, honest results reporting, and paper writing."
     }
   ]
