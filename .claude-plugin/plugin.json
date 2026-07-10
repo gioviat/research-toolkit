@@ -1,6 +1,6 @@
 {
   "name": "research-toolkit",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Skills and agents for the ML research pipeline: literature review, research ideation, math verification, experiment design, honest results reporting, and paper writing.",
   "author": {
     "name": "gioviat",
